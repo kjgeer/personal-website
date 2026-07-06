@@ -12,6 +12,7 @@ I build practical software and digital products that solve real problems.
 - Curious
 - Reliable
 - Builder-minded
+- Sustainable
 
 ## Visitor Takeaway
 
